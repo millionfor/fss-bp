@@ -1,6 +1,6 @@
 {
   "name": "@hydee/fss-bp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "bin": {
     "fss-bp": "bin/fss-bp.js"
   },
@@ -17,7 +17,6 @@
   "dependencies": {
     "@fedor/standard": "^1.0.0",
     "chalk": "^2.4.1",
-    "child_process": "^1.0.2",
     "commander": "^2.17.1",
     "download-git-repo": "^1.1.0",
     "handlebars": "^4.0.11",
